@@ -1,7 +1,7 @@
 # Information  
 ### This repository contains collections related to Dutch addresses.  
 ### All files in this repository are compressed with 7zip. This collection is compiled from freely and publicly available data from Kadaster (The Netherlands’ Cadastre, Land Registry and Mapping Agency).  [Link to download](https://www.kadaster.nl/-/kosteloze-download-bag-2.0-extract).  
-### A new version is released on the 8th day of every month.
+### A new version is released by Kadaster on the 8th day of every month.
 ---
 This repository contains collections for:
 - [addresses.csv.7z](https://github.com/TomKleine/dutch-addresses/blob/main/collections/addresses.csv.7z)
